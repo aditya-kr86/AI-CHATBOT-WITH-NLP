@@ -96,10 +96,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## Author
+*Made with ❤️ by [Aditya Kumar](https://adityakr.me)*
 
-- [aditya-kr86](https://github.com/aditya-kr86)
-
----
-
-*Happy chatting!*
