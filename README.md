@@ -17,6 +17,7 @@ A simple yet powerful NLP-powered chatbot built using Python, Streamlit, and sci
 - **Lightweight & Extensible:** Easy to modify for your own use-cases.
 
 ## Demo
+![Screenshot 2025-06-25 061142](https://github.com/user-attachments/assets/5490a879-1791-46d1-bf81-35b01d8678bc)
 
 ![Chatbot Demo](https://raw.githubusercontent.com/aditya-kr86/AI-CHATBOT-WITH-NLP/main/demo.gif) <!-- Replace with actual demo GIF if available -->
 
